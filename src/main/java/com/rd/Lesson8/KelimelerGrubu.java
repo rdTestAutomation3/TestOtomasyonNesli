@@ -8,6 +8,7 @@ public class KelimelerGrubu {
     public static void main(String[] args) {
 
         String[] kelimeDizisi = {"neslihan", "dilay", "ödev", "çalışma"};
+        int a=0;
 
 
         ArrayList<String> tekrarliKelimeler = new ArrayList<>();
